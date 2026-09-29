@@ -1,2 +1,2 @@
-# UADYConnect
-Repositorio para UADY Connect 2026
+# SimpleQA
+Repositorio para SimpleQA 2026 FIS
