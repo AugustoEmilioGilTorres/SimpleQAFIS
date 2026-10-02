@@ -1,4 +1,4 @@
-VIDEOS DE QA
+# VIDEOS DE SimpleQA
 
-PRIMERA ENTREGA:
-hyperlink va aqui
+## PRIMERA ENTREGA:<br>
+[Presentando SimpleQA](https://youtu.be/FzVVJYqzlNo)
