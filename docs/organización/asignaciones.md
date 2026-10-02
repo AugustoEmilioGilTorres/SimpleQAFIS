@@ -15,3 +15,5 @@ Augusto
 Geraldin<br>
 Paola<br>
 Augusto
+## FECHA LIMITE ACTUAL
+2026/10/03 a las 11:59pm
