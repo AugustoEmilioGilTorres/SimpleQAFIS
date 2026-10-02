@@ -1,3 +1,5 @@
+NADA DE AQUI VA A QUEDARSE TRASPASENLO AL NUEVO FORMATO
+
 RF-000
 
 Requisitos: El sistema tiene 2 tipos de cuentas de usuario llamadas  "DEV" y "TESTER", las cuentas TESTER son manejadas via "tags" que permiten acceder a diferentes tipos de sectores y pruebas, las cuentas DEV permiten acceso a todo el sistema incluyendo los sectores y pruebas
