@@ -29,5 +29,5 @@ El usuario no ve sectores y recibe un aviso. <br>
 ## Entradas
 •	Ninguna (se usa la sesión del usuario)
 ## Salidas
-•	Lista de sectores disponibles
+•	Lista de sectores disponibles<br>
 •	Texto de "sin sectores asignados"
