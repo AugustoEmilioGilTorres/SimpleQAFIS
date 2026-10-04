@@ -27,7 +27,7 @@ Ninguno. <br>
 •	La cuenta no tiene un tipo válido: el sistema niega el acceso y muestra un mensaje de error.
 ## Datos relevantes
 ## Entradas
-•	Tipo de cuenta (DEV o TESTER)
+•	Tipo de cuenta (DEV o TESTER)<br>
 •	Tags asignados (solo TESTER)
 ## Salidas
 •	Permisos de acceso aplicados a la sesión
