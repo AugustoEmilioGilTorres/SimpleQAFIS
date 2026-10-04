@@ -12,6 +12,7 @@ El usuario inicia sesión en la plataforma. <br>
 ## Precondiciones
 •	La cuenta del usuario existe y tiene un tipo asignado (DEV o TESTER).
 •	A las cuentas TESTER se les asignaron "tags" de sectores y pruebas.
+## Postcondiciones
 ## En éxito
 El usuario ve únicamente lo que su tipo de cuenta permite: el DEV ve todos los sectores y pruebas, el TESTER solo los de sus tags. <br>
 ## En fallo
