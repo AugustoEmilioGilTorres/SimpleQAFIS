@@ -34,9 +34,9 @@ El paso permanece sin completar y el siguiente sigue bloqueado. <br>
 •	Falla el guardado del avance: el sistema muestra un mensaje de error y mantiene el paso sin completar.
 ## Datos relevantes
 ## Entradas
-•	Acción de completar paso
+•	Acción de completar paso<br>
 •	Decisión de terminar la prueba prematuramente (RF-006c)
 ## Salidas
-•	Paso marcado como completado
-•	Siguiente paso habilitado
+•	Paso marcado como completado<br>
+•	Siguiente paso habilitado<br>
 •	Prueba completada o terminada prematuramente
