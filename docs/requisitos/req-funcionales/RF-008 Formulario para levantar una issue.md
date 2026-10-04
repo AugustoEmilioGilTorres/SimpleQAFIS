@@ -27,7 +27,7 @@ Ninguno. <br>
 •	Falla la carga de la foto: el sistema muestra un mensaje de error y permite reintentar o continuar sin foto.
 ## Datos relevantes
 ## Entradas
-•	Datos solicitados por el formulario
-•	Foto (opcional)<br>
+•	Datos solicitados por el formulario<br>
+•	Foto (opcional)
 ## Salidas
 •	Formulario mostrado y datos capturados
