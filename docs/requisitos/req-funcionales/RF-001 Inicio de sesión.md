@@ -33,5 +33,5 @@ El usuario permanece en la pantalla de inicio de sesión sin acceso. <br>
 ## Entradas
 •	Datos de acceso (usuario y contraseña)
 ## Salidas
-•	Acceso concedido o negado
+•	Acceso concedido o negado<br>
 •	Mensaje de error en caso de datos incorrectos
