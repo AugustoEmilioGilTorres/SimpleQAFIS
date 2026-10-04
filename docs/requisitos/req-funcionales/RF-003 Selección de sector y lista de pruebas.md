@@ -31,5 +31,5 @@ El usuario regresa a la pantalla anterior. <br>
 ## Entradas
 •	Sector seleccionado
 ## Salidas
-•	Lista de pruebas con su estado (completada o no)
+•	Lista de pruebas con su estado (completada o no)<br>
 •	Texto de "sin pruebas"
