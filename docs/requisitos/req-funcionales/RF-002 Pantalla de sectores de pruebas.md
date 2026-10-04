@@ -5,7 +5,7 @@ Mostrar al usuario, con una interfaz sencilla y clara, los sectores de pruebas d
 Pantalla principal posterior al inicio de sesión. <br>
 ## Actores
 ## Actor principal
-•	Usuario DEV
+•	Usuario DEV<br>
 •	Usuario TESTER
 ## Disparador
 El usuario inicia sesión correctamente. <br>
