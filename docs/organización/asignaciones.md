@@ -5,11 +5,11 @@ Erick<br>
 Roger<br>
 Augusto
 ## REQUISITOS NO FUNCIONALES ##
-Emilio<br>
 Augusto<br>
 Argel
 ## PROCESO
-Osiris (Jose luis)<br>
+Osiris<br>
+Emilio<br>
 Augusto
 ## PRODUCTO
 Geraldin<br>
